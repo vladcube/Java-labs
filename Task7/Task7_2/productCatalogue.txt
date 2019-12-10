@@ -1,0 +1,3 @@
+Eggs 2
+Bread 1
+Milk 1

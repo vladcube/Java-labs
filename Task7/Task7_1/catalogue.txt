@@ -1,0 +1,4 @@
+Phone 100
+Apple 5
+Bread 2
+TV 200
