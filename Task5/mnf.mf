@@ -1,0 +1,2 @@
+Main-Class: laba5
+Manifest-Version: 1.0
